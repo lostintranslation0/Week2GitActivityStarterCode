@@ -11,3 +11,4 @@ console.log(`result_sub = ${result_sub}`);
 const result_divide = calc.divide(7, 4);
 console.log(`result_divide = ${result_divide}`);
 
+calc.hello();
